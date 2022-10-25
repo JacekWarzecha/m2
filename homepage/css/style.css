@@ -1,0 +1,17 @@
+.bodycss {
+  background-color: rgb(224, 224, 234);
+}
+
+.text-of-love {
+  font-weight: 20px;
+  font-size: 50px;
+  color: hsl(248, 62%, 34%);
+}
+
+.divOfLove {
+  background-color: #ce0808;
+}
+
+.text {
+  color: #5a6f66;
+}
